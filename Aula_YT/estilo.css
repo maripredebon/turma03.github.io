@@ -1,0 +1,41 @@
+html, body{
+    margin: 0;
+    background-color: rgb(251, 247, 241);    
+}
+
+#imgfundo{
+    background: url("JA\ Line\ Triangles\ 2018-2019.png");
+    background-size: 175px 500px;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    text-align: center;
+}
+
+#titulo{
+    font-size: 100px;
+    color: black;
+    padding-top: 10%; 
+}
+
+#inscrever {
+    color: black;
+    border: 3px rgb(208, 223, 93) solid;
+    padding-left: 20%;
+    padding-right: 30%;
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(208, 223, 93);
+    box-shadow:2px 2px 2px black;
+    text-decoration: none;
+}
+
+#inscrever:hover{
+    color: white;
+    background-color: black;
+
+}
+#busca{
+    background-color: #fbf8f8;
+    padding: 20px;
+    text-align: center;
+}
